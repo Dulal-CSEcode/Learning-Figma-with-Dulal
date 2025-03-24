@@ -1,6 +1,6 @@
 # Learning [Figma](https://www.figma.com)
 
-Just one of the things I'm learning. <https://github.com/hchiam/learning>
+Just one of the things I'm learning. <https://github.com/Dulal-CSEcode>
 
 If you can't remember keyboard shortcuts or just want to search available actions, hit <kbd>command</kbd> + <kbd>/</kbd> (mac) **OR** <kbd>Ctrl</kbd> + <kbd>/</kbd> (pc).
 
